@@ -1,0 +1,6 @@
+after you . build/envsetup.sh , lunch, and select your device, run:
+```
+./killjack
+```  
+
+and then feel free to build the ROM

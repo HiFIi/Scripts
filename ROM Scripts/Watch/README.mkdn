@@ -1,0 +1,4 @@
+To watch ccache, acquire root and cd into your ROMs top folder and then run:
+```
+sh watch.sh
+```  

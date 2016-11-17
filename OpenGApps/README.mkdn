@@ -1,1 +1,11 @@
-Run either 'sh opengapps.sh --24' or 'sh opengapps.sh --25'
+Run either:
+```
+sh opengapps.sh --24
+```
+  
+  
+or:
+
+```
+sh opengapps.sh --25
+```
