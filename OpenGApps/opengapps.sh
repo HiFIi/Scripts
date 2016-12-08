@@ -2,10 +2,10 @@
 cd ~/Documents/github/opengapps
 git pull
 ./download_sources.sh --shallow arm64
-export PATH=/home/kyler/Android/Sdk/build-tools/25.0.0:$PATH
-PATH=/home/kyler/Android/Sdk/build-tools/25.0.0:$PATH
-PATH=$PATH:/home/kyler/Android/Sdk/build-tools/25.0.0
-export PATH=$PATH:/home/kyler/Android/Sdk/build-tools/25.0.0
+# export PATH=/home/$USER/Android/Sdk/build-tools/25.0.1:$PATH
+# PATH=/home/$USER/Android/Sdk/build-tools/25.0.1:$PATH
+# PATH=$PATH:/home/$USER/Android/Sdk/build-tools/25.0.1
+# export PATH=$PATH:/home/$USER/Android/Sdk/build-tools/25.0.1
 
 
 argument() {
